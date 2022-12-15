@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fblack-friday-elements-assortment_23-2149074076.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fshopping&tbnid=1tNelW4CX8a4gM&vet=12ahUKEwjdvqKG7bT7AhVBKbcAHco6BksQMygBegUIARDoAQ..i&docid=Oks722EfqPzJcM&w=2000&h=1125&q=shopping%20hd%20images&ved=2ahUKEwjdvqKG7bT7AhVBKbcAHco6BksQMygBegUIARDoAQ");
+}
+
+
+
+.adminlogin{ 
+    background-color:rgb(171, 228, 238);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 400px;
+    width: 400px ;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 20px;
+    
+}
+
+#btn1{ 
+    background-color:rgb(78, 60, 143);
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 30PX;
+}
